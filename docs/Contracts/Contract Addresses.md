@@ -54,59 +54,6 @@ Overlay smart contracts are currently deployed only on the Ethereum mainnet and 
   </tr>
 </table>
 
-### Arbitrum Mainnet
-
-<table>
-  <tr>
-   <td><strong>Contract</strong>
-   </td>
-   <td><strong>Address</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>OverlayV1Factory
-   </td>
-   <td><a href="https://etherscan.io/address/0x9a74758c2a80fa1b1d899e0e1f24cf505a4dea33">0x9a74758c2A80fA1B1d899E0E1f24CF505a4Dea33</a>
-   </td>
-  </tr>
-  <tr>
-   <td>OverlayV1State
-   </td>
-   <td><a href="https://etherscan.io/address/0x477122219aa1F76E190f480a85af97DE0A643320#code">0x477122219aa1F76E190f480a85af97DE0A643320</a>
-   </td>
-  </tr>
-  <tr>
-   <td>OverlayV1Market
-   </td>
-   <td><a href="https://etherscan.io/address/0x7f72986e190BBd1D02daC52b8DdA82eEa363d313">0x7f72986e190BBd1D02daC52b8DdA82eEa363d313</a>
-   </td>
-  </tr>
-  <tr>
-   <td>OverlayV1NoReserveUniswapV3Factory
-   </td>
-   <td><a href="https://etherscan.io/address/0x40a9C6E8d60bE1CE297Bef6a9aC3337d45193D87">0x40a9C6E8d60bE1CE297Bef6a9aC3337d45193D87</a>
-   </td>
-  </tr>
-  <tr>
-   <td>OverlayV1NoReserveUniswapV3Feed ETH/USDC (0.05%)
-   </td>
-   <td><a href="https://etherscan.io/address/0xFFDd8e8D16AEd8CadF4b46DcAf4Ba620Dc269De1">0xFFDd8e8D16AEd8CadF4b46DcAf4Ba620Dc269De1</a>
-   </td>
-  </tr>
-</table>
-
-## {-}
-
-# Tabs {.tabset}
-
-## Tab 1 {.tabset-tab}
-
-Content for tab 1.
-
-## Tab 2 {.tabset-tab}
-
-Content for tab 2.
-
 ## PlanckCat DAO on Arbitrum
 
 PlanckCat DAO (PCD) is a DAO that enables Overlay contributors to be involved in decision making processes through governance. Contributors receive an ERC-721 token when their contribution crosses a certain threshold. PCD NFTs are currently minted on Arbitrum. The contract address for the PCD NFTs is _[0xc9B28946144E3A0e02fcC119a622E30565916784](https://arbiscan.io/token/0xc9B28946144E3A0e02fcC119a622E30565916784)_.
