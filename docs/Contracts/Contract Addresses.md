@@ -97,19 +97,18 @@ Overlay smart contracts are currently deployed only on the Ethereum mainnet and 
 
 ## {-}
 
-<details>
-<summary>Tab 1</summary>
+- [Tab 1](#tab-1)
+- [Tab 2](#tab-2)
+
+---
+
+## Tab 1
 
 Content for tab 1.
 
-</details>
-
-<details>
-<summary>Tab 2</summary>
+## Tab 2
 
 Content for tab 2.
-
-</details>
 
 ## PlanckCat DAO on Arbitrum
 
