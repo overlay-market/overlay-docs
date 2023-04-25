@@ -97,6 +97,20 @@ Overlay smart contracts are currently deployed only on the Ethereum mainnet and 
 
 ## {-}
 
+<details>
+<summary>Tab 1</summary>
+
+Content for tab 1.
+
+</details>
+
+<details>
+<summary>Tab 2</summary>
+
+Content for tab 2.
+
+</details>
+
 ## PlanckCat DAO on Arbitrum
 
 PlanckCat DAO (PCD) is a DAO that enables Overlay contributors to be involved in decision making processes through governance. Contributors receive an ERC-721 token when their contribution crosses a certain threshold. PCD NFTs are currently minted on Arbitrum. The contract address for the PCD NFTs is _[0xc9B28946144E3A0e02fcC119a622E30565916784](https://arbiscan.io/token/0xc9B28946144E3A0e02fcC119a622E30565916784)_.
