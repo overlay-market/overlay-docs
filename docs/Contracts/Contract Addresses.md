@@ -97,16 +97,13 @@ Overlay smart contracts are currently deployed only on the Ethereum mainnet and 
 
 ## {-}
 
-- [Tab 1](#tab-1)
-- [Tab 2](#tab-2)
+# Tabs {.tabset}
 
----
-
-## Tab 1
+## Tab 1 {.tabset-tab}
 
 Content for tab 1.
 
-## Tab 2
+## Tab 2 {.tabset-tab}
 
 Content for tab 2.
 
