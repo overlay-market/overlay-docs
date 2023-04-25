@@ -5,7 +5,7 @@
 
 ## OVL Token
 
-The OVL token is deployed on the Ethereum mainnet and Arbitrum mainnet. The OVL token addresses for Ethereum mainnet and Arbitrum mainnet are [0xdc77acc82cce1cc095cba197474cc06824ade6f7](https://etherscan.io/address/0xdc77acc82cce1cc095cba197474cc06824ade6f7#code) [0x4305C4Bc521B052F17d389c2Fe9d37caBeB70d54](https://arbiscan.io/address/0x4305C4Bc521B052F17d389c2Fe9d37caBeB70d54) respectively.
+The OVL token is deployed on the Ethereum mainnet and Arbitrum mainnet. The OVL token addresses for Ethereum mainnet and Arbitrum mainnet are [0xdc77acc82cce1cc095cba197474cc06824ade6f7](https://etherscan.io/address/0xdc77acc82cce1cc095cba197474cc06824ade6f7#code), [0x4305C4Bc521B052F17d389c2Fe9d37caBeB70d54](https://arbiscan.io/address/0x4305C4Bc521B052F17d389c2Fe9d37caBeB70d54) respectively.
 
 ## Overlay Smart Contracts
 
@@ -13,7 +13,7 @@ Overlay smart contracts are currently deployed only on the Ethereum mainnet and 
 
 ## Chains {.tabset}
 
-## Ethereum Mainnet
+### Ethereum Mainnet
 
 <table>
   <tr>
@@ -54,7 +54,7 @@ Overlay smart contracts are currently deployed only on the Ethereum mainnet and 
   </tr>
 </table>
 
-## Arbitrum Mainnet
+### Arbitrum Mainnet
 
 <table>
   <tr>
