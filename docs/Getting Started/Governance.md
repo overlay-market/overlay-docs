@@ -1,14 +1,13 @@
 
 # Governance
 
-As of today, Overlay Protocol is governed by Planck Cat DAO, a DAO for Overlay contributors to participate in the protocol governance via PlanckCat (PCD) NFT’s.
-Discussions are currently being had about OVL taking the place of governance. These discussions will be had in the appropriate channels on Discord and Forum.
+As of the present day, Overlay Protocol is under the joint governance of PlanckCat DAO and OVL token holders. One PCD NFT equates to 100 votes, while one OVL token equals one vote within the governance structure. It's important to note that this equilibrium may be subject to change in the future.
 
-1 PCD NFT equals one vote and PCD NFT holders can vote for governance proposals on [Snapshot](https://snapshot.org/#/planckcatdao.eth). Moreover, any PCD NFT holder can start a discussion on both [Overlay Discord](http://discord.gg/m2U5vSr4gD) and/or the [Forum](https://gov.overlay.market/), and then after a temperature check, can open a governance proposal on Snapshot.
+PlanckCat DAO is a DAO created for Overlay contributors to engage in protocol governance through PlanckCat (PCD) NFTs, currently plays a central role in governance. Discussions are ongoing regarding the potential transition of governance responsibilities to OVL token holders. 
 
-PlanckCat DAO can and will decide on what markets will be listed or delisted on the protocol, as well as set protocol risk parameters which will dictate the experience for all users.
+These discussions are taking place within the appropriate channels on Discord and the Forum.
+PCD NFT holders are granted one vote per NFT, and they have the ability to participate in voting for governance proposals on Snapshot. Furthermore, any PCD NFT or OVL holder is entitled to initiate discussions on the Overlay Discord and/or the Forum. Following a temperature check within the community, they can proceed to create a governance proposal on Snapshot.
 
-Non-PCD NFT holders can  still get involved with discussions on Discord and the Governance Forum.
+PlanckCat DAO and OVL holders hold the authority to determine which markets are listed or delisted on the protocol, as well as to establish protocol risk parameters that influence the user experience for all participants.
 
-
-If community members want to actively participate in governance,they must earn an NFT by contributing to Overlay Protocol. Participation is judged by community members, and contributors are rewarded with Cred. As of today, community members  must collect 1000 Cred to claim one PCD NFT. The soft cap supply of the PCD NFT is currently set to 500. More NFT’s can be minted on a one off basis once the 500 limit has been set. 
+It's important to emphasize that individuals who do not hold PCD NFTs or OVL can still actively engage in discussions on Discord and the Governance Forum.

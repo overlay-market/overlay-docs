@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ## What is Overlay?
 
-Overlay Protocol is a decentralized platform built on Ethereum, and offers users the ability to build positions on a market or data stream without traditional counterparties (liquidity providers or market makers) taking the other side of the position. Ideally, the protocol will offer markets based on (i) price data feeds and (ii) non-manipulable & non-predictable data feeds. 
+Overlay Protocol is a native Arbitrum protocol. Initially, the token and markets were created on Ethereum. However, following a governance proposal, the community decided to transition to becoming a native Arbitrum protocol due to factors such as transaction fees and other considerations.
 
 
 
@@ -46,7 +46,7 @@ Users would be required to lock OVL as collateral to a position in an Overlay ma
 
 ## OVL
 
-OVL is the proposed native token of Overlay Protocol. It is an ERC-20 token on the Ethereum Mainnet. OVL serves a dual purpose and will be used to participate in trading and DAO governance after launch. OVL acts as liquidity and governance in the Overlay system - all PnL for users is denominated in OVL, creating a flywheel effect where utility, liquidity and community incentives are fed back into the system. For more on OVL, please refer to our section on OVL here.
+OVL is the proposed native token of Overlay Protocol. It is an ERC-20 token on the Arbitrum Mainnet. OVL serves a dual purpose and will be used to participate in trading and DAO governance after launch. OVL acts as liquidity and governance in the Overlay system - all PnL for users is denominated in OVL, creating a flywheel effect where utility, liquidity and community incentives are fed back into the system. For more on OVL, please refer to our section on OVL here.
 
 
 ## Nature of Contracts entered by users

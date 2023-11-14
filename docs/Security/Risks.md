@@ -40,7 +40,7 @@ If access to the smart contract is not implemented correctly, this can lead to a
 
 Pricing data on Overlay markets is based on values intermittently fetched from oracles. Oracles are third-party services that help protocols get information/data (related to price data or other data) required from outside of the protocol’s smart contract ecosystem. Any tool that helps get price data about an asset is a “price oracle.” Overlay has the ability to onboard nearly any oracle, as long as the oracle feed is non-manipulable and non-predictable.
 
-There is sometimes a time delay between manipulation-resistant information available at the current time and the actual most recent value of the data stream. That is, the price feed of the oracle may not be up to date with the actual price at any given point of time. This latency can be exploited to turn a profit by frontrunning users. Frontrunning is an issue especially on the Ethereum mainnet.
+There is sometimes a time delay between manipulation-resistant information available at the current time and the actual most recent value of the data stream. That is, the price feed of the oracle may not be up to date with the actual price at any given point of time. This latency can be exploited to turn a profit by frontrunning users. Frontrunning is an issue especially on the Arbitrum mainnet.
 
 Several crypto exploits have focused on corrupting oracle data through manipulation of the oracle price feeds. This can lead to large gains for exploiters on another platform using the corrupted oracle data. Such attacks usually involve flash loans to manipulate oracle data and are completed within the same block (due to the nature of flash loans).
 

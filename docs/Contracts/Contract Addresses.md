@@ -3,19 +3,26 @@
 
 
 > INFO     
-> Overlay Protocol is currently only available to participants in the gated and sandboxed Litter Box 1 program. The OVL token is NOT available on any exchanges as of now, nor have any liquidity pools been deployed. To learn more about Litter Box 1, please check out our blog post, available here. 
+> Overlay Protocol is currently exclusively accessible to participants in the gated and sandboxed Litter Box programs. There have been three different versions of gated programs in the past. To stay informed about future private versions and the full launch, please follow updates on our official channels and actively participate in forum discussions.
 
 
 
 
 ## OVL Token
 
-The OVL token is deployed on the Ethereum mainnet, and is meant only for the sandboxed and gated Litter box 1 program at this point in time.  The OVL token address on Ethereum mainnet is [0xdc77acc82cce1cc095cba197474cc06824ade6f7](https://etherscan.io/address/0xdc77acc82cce1cc095cba197474cc06824ade6f7#code).
+The OVL token is a native protocol on Arbitrum. Governance proposals and voting on the protocol are conducted using OVL tokens on the Arbitrum network. The OVL token contract address on Arbitrum is: 0x4305c4bc521b052f17d389c2fe9d37cabeb70d54. 
+
+The old Ethereum contract: 0xdc77acc82cce1cc095cba197474cc06824ade6f7 (OVL holders on Ethereum can also participate in governance proposals and voting).
+
+Please note that as of now, the OVL token is not available on any exchanges, and no liquidity pools have been deployed for it. It is currently intended for use within the sandboxed and gated Litter Box program on Arbitrum. 
+
+If you have any further questions or need additional information, don't hesitate to reach out through our official communication channels.
+ 
 
 
 ## Overlay Smart Contracts
 
-Overlay smart contracts are currently deployed only on the Ethereum mainnet exclusively for testing purposes. 
+Overlay smart contracts are currently deployed only on the Arbitrum mainnet exclusively for testing purposes. 
 
 
 <table>
@@ -71,7 +78,7 @@ PlanckCat DAO (PCD) is a DAO that enables Overlay contributors to be involved in
 
 
 > DISCLAIMER    
-> Please note that Overlay Protocol's OVL token has been deployed in a limited capacity (only for participants of the Litter Box 1 program) on Ethereum mainnet. The official Overlay token OVL is not available on any exchange currently. The official token address of the OVL token is the one provided on this page. Any other ERC-20 tokens currently deployed on Ethereum (or any other chain) are not associated with Overlay Protocol.       
+> Please note that Overlay Protocol's OVL token has been deployed in a limited capacity (only for participants of the Litter Box 1 program) on Arbitrum mainnet. The official Overlay token OVL is not available on any exchange currently. The official token address of the OVL token is the one provided on this page. Any other ERC-20 tokens currently deployed on Arbitrum (or any other chain) are not associated with Overlay Protocol.       
 > 
 > Do not interact with any token /smart contract addresses that are not listed on this webpage. Any "OVL" token not listed on this page that exists on any chain is not associated with Overlay Protocol. Please be careful and get information about Overlay only from the official channels listed [here](https://overlay-docs.vercel.app/Getting%20Started/Communication%20channels).
 
