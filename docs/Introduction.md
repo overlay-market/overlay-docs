@@ -8,7 +8,9 @@ sidebar_position: 1
 
 ## What is Overlay?
 
-Overlay Protocol is a native Arbitrum protocol. Initially, the token and markets were created on Ethereum. However, following a governance proposal, the community decided to transition to becoming a native Arbitrum protocol due to factors such as transaction fees and other considerations.
+Overlay Protocol is a decentralized platform built on Arbitrum, and offers users the ability to build positions on a market or data stream without traditional counterparties (liquidity providers or market makers) taking the other side of the position. The protocol can offer markets on ANY non-manipulable & non-predictable numerical data feed.
+
+Initially, the token and markets were created on Ethereum. However, following a governance proposal, the community decided to transition to becoming a native Arbitrum protocol due to factors such as transaction fees and other considerations.
 
 
 

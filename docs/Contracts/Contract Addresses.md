@@ -10,7 +10,7 @@
 
 ## OVL Token
 
-The OVL token is a native protocol on Arbitrum. Governance proposals and voting on the protocol are conducted using OVL tokens on the Arbitrum network. The OVL token contract address on Arbitrum is: 0x4305c4bc521b052f17d389c2fe9d37cabeb70d54. 
+The OVL token is a native protocol on Arbitrum. Governance proposals and voting on the protocol are conducted using OVL tokens on the Arbitrum network. The OVL token contract address on Arbitrum is: 0x4305C4Bc521B052F17d389c2Fe9d37caBeB70d54. 
 
 The old Ethereum contract: 0xdc77acc82cce1cc095cba197474cc06824ade6f7 (OVL holders on Ethereum can also participate in governance proposals and voting).
 
@@ -33,33 +33,27 @@ Overlay smart contracts are currently deployed only on the Arbitrum mainnet excl
    </td>
   </tr>
   <tr>
+   <td>OVL Token
+   </td>
+   <td><a href="https://arbiscan.io/address/0x4305C4Bc521B052F17d389c2Fe9d37caBeB70d54">0x4305C4Bc521B052F17d389c2Fe9d37caBeB70d54</a>
+   </td>
+  </tr>
+  <tr>
    <td>OverlayV1Factory
    </td>
-   <td><a href="https://etherscan.io/address/0x9a74758c2a80fa1b1d899e0e1f24cf505a4dea33">0x9a74758c2A80fA1B1d899E0E1f24CF505a4Dea33</a>
+   <td><a href="https://arbiscan.io/address/0xFA39CdE07Ff63b4329A70784C0600Da38CF4777C">0xFA39CdE07Ff63b4329A70784C0600Da38CF4777C</a>
    </td>
   </tr>
   <tr>
    <td>OverlayV1State
    </td>
-   <td><a href="https://etherscan.io/address/0x477122219aa1F76E190f480a85af97DE0A643320#code">0x477122219aa1F76E190f480a85af97DE0A643320</a>
+   <td><a href="https://arbiscan.io/address/0xC3cB99652111e7828f38544E3e94c714D8F9a51a#code">0xC3cB99652111e7828f38544E3e94c714D8F9a51a</a>
    </td>
   </tr>
   <tr>
-   <td>OverlayV1Market
+   <td>OverlayV1ChainlinkFeedFactory
    </td>
-   <td><a href="https://etherscan.io/address/0x7f72986e190BBd1D02daC52b8DdA82eEa363d313">0x7f72986e190BBd1D02daC52b8DdA82eEa363d313</a>
-   </td>
-  </tr>
-  <tr>
-   <td>OverlayV1NoReserveUniswapV3Factory
-   </td>
-   <td><a href="https://etherscan.io/address/0x40a9C6E8d60bE1CE297Bef6a9aC3337d45193D87">0x40a9C6E8d60bE1CE297Bef6a9aC3337d45193D87</a>
-   </td>
-  </tr>
-  <tr>
-   <td>OverlayV1NoReserveUniswapV3Feed ETH/USDC (0.05%)
-   </td>
-   <td><a href="https://etherscan.io/address/0xFFDd8e8D16AEd8CadF4b46DcAf4Ba620Dc269De1">0xFFDd8e8D16AEd8CadF4b46DcAf4Ba620Dc269De1</a>
+   <td><a href="https://arbiscan.io/address/0x92ee7A26Dbc18E9C0157831d79C2906A02fD1FAe">0x92ee7A26Dbc18E9C0157831d79C2906A02fD1FAe</a>
    </td>
   </tr>
 </table>
