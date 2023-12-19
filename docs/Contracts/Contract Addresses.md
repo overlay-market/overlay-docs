@@ -10,11 +10,11 @@
 
 ## OV Token
 
-The OV token is a native protocol on Arbitrum. Governance proposals and voting on the protocol are conducted using OV tokens on the Arbitrum network. The OV token contract address on Arbitrum is: 0x4305C4Bc521B052F17d389c2Fe9d37caBeB70d54. 
+The OV token is a native protocol on Arbitrum. Governance proposals and voting on the protocol are conducted using OV tokens on the Arbitrum network. The OV token contract address on Arbitrum is to be announced.
 
-The old Ethereum contract: 0xdc77acc82cce1cc095cba197474cc06824ade6f7 (OV holders on Ethereum can also participate in governance proposals and voting).
+OVL is the Litter Box (test purpose) token on Arbitrum mainnet and the contract address is 0x4305c4bc521b052f17d389c2fe9d37cabeb70d54.
 
-Please note that as of now, the OV token is not available on any exchanges, and no liquidity pools have been deployed for it. It is currently intended for use within the sandboxed and gated Litter Box program on Arbitrum. 
+Please note that as of now, the OV token is not available on any exchanges, and no liquidity pools have been deployed for it.
 
 If you have any further questions or need additional information, don't hesitate to reach out through our official communication channels.
  

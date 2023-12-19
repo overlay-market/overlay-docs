@@ -9,4 +9,4 @@ Official Communication Channels (Beware of Scams - these are the only official c
 
 **Governance Forum:_ https://commonwealth.im/overlay/_**    
 
-**Deprecated:** Telegram channel
+**Deprecated:** Telegram (Announcements): **_[https://t.me/overlay_protocol](https://t.me/overlay_protocol)_**
