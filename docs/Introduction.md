@@ -28,18 +28,17 @@ Overlay aims to offer several types of markets, based on price data feeds and no
 
 * non-traditional crypto markets such as markets letting users build positions on hash rate, gas, BTC difficulty, NFT floors, social tokens, yield rates, etc. 
 * non-traditional markets such as e-sports & sports, sneaker prices, scalar social-political markets, nature and science markets, etc. 
-* traditional crypto markets 
 * And the list goes on
 
 
 ## How does Overlay offer markets without counterparties?
 
-Users build positions against the entire protocol itself, or perhaps most tellingly: against every other OV holder simultaneously. This enables Overlay markets to have deep liquidity without the need for liquidity providers or traditional swap-based counterparties (including market makers). To read more about how the protocol negates the potential OV inflation risk from this mechanism, please refer to this write-up.
+Users build positions against the entire protocol itself, or perhaps most tellingly: against every other OV holder simultaneously. This enables Overlay markets to have deep liquidity without the need for liquidity providers or traditional swap-based counterparties (including market makers). [To read more about how the protocol negates the potential OV inflation risk from this mechanism, please refer to this write-up](https://mirror.xyz/0x7999C7f0b9f2259434b7aD130bBe36723a49E14e/vtmmujPcVINTIVavcsztrYHmP_N1mA4RwgYHmZ8lLdw ).
 
 
 ## Pricing based on oracle feeds
 
-Pricing on Overlay markets is not dynamic in the traditional sense; it is based on values intermittently fetched from oracles. These oracle values are then adjusted by certain mechanisms built-in to the protocol (for more details, please see our article on Pricing on Overlay). Overlay has the ability to onboard nearly any oracle, as long as the oracle feed is non-manipulable and non-predictable. 
+Pricing on Overlay markets is not dynamic in the traditional sense; it is based on values intermittently fetched from oracles. These oracle values are then adjusted by certain mechanisms built-in to the protocol [(for more details, please see our article on Pricing on Overlay)](https://mirror.xyz/0x7999C7f0b9f2259434b7aD130bBe36723a49E14e/vtmmujPcVINTIVavcsztrYHmP_N1mA4RwgYHmZ8lLdw). Overlay has the ability to onboard nearly any oracle, as long as the oracle feed is non-manipulable and non-predictable. 
 
  ## How does trading work (Collateral and PnL)?
 
@@ -48,12 +47,12 @@ Users would be required to lock OV as collateral to a position in an Overlay mar
 
 ## OV
 
-OV is the proposed native token of Overlay Protocol. It is an ERC-20 token on the Arbitrum Mainnet. OV serves a dual purpose and will be used to participate in trading and DAO governance after launch. OV acts as liquidity and governance in the Overlay system - all PnL for users is denominated in OV, creating a flywheel effect where utility, liquidity and community incentives are fed back into the system. For more on OV, please refer to our section on OV here.
+OV is the proposed native token of Overlay Protocol. It is an ERC-20 token on the Arbitrum Mainnet. OV serves a dual purpose and will be used to participate in trading and DAO governance after launch. OV acts as liquidity and governance in the Overlay system - all PnL for users is denominated in OV, creating a flywheel effect where utility, liquidity and community incentives are fed back into the system. [For more on OV, please refer to our section on OV here](https://overlay-docs-git-doc-ov-update-overlayprotocol.vercel.app/Concepts%20Explained/OVL).
 
 
 ## Nature of Contracts entered by users
 
-Positions on Overlay Protocol resemble perpetual futures contracts (perps) - similar to perps, the contracts keep rolling over, with no expiration date or actual settlement. However, contracts offered on Overlay markets have several key features differing from conventional perps. For more on this, please refer to our section on this.
+Positions on Overlay Protocol resemble perpetual futures contracts (perps) - similar to perps, the contracts keep rolling over, with no expiration date or actual settlement. However, contracts offered on Overlay markets have several key features differing from conventional perps. [For more on this, please refer to our section on this](https://overlay-docs-git-doc-ov-update-overlayprotocol.vercel.app/Concepts%20Explained/How%20is%20Overlay%20different).
 
 
 > DISCLAIMER     
@@ -61,4 +60,4 @@ Positions on Overlay Protocol resemble perpetual futures contracts (perps) - sim
 
 
 <p style={{textAlign: 'right'}}>
-<em>Last updated on <strong>Oct 18, 2022</strong></em></p>
+<em>Last updated on <strong>Dec 19, 2023</strong></em></p>

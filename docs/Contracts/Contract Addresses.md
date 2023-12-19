@@ -3,14 +3,14 @@
 
 
 > INFO     
-> Overlay Protocol is currently exclusively accessible to participants in the gated and sandboxed Litter Box programs. There have been three different versions of gated programs in the past. To stay informed about future private versions and the full launch, please follow updates on our official channels and actively participate in forum discussions.
+> Overlay Protocol is currently exclusively accessible to participants in the gated and sandboxed Litter Box programs. There have been three different versions of gated programs in the past. For full launch, please follow updates on our official channels.
 
 
 
 
 ## OV Token
 
-The OV token is a native protocol on Arbitrum. Governance proposals and voting on the protocol are conducted using OV tokens on the Arbitrum network. The OV token contract address on Arbitrum is to be announced.
+The OV token is the native protocol token. Governance proposals, voting, and trading on the protocol are conducted using OV tokens. The OV token contract address is to be announced.
 
 OVL is the Litter Box (test purpose) token on Arbitrum mainnet and the contract address is 0x4305c4bc521b052f17d389c2fe9d37cabeb70d54.
 
@@ -66,7 +66,7 @@ PlanckCat DAO (PCD) is a DAO that enables Overlay contributors to be involved in
 
 
 <p style={{textAlign: 'right'}}>
-<em>Last updated on <strong>Oct 18, 2022</strong></em></p>
+<em>Last updated on <strong>Dec 19, 2023</strong></em></p>
 
 
  

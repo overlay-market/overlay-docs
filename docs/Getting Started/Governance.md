@@ -3,7 +3,7 @@
 
 As of the present day, Overlay Protocol is under the joint governance of PlanckCat DAO and OV token holders. One PCD NFT equates to 100,000 votes, while one OV token equals one vote within the governance structure. It's important to note that this equilibrium may be subject to change in the future.
 
-PlanckCat DAO is a DAO created for Overlay contributors to engage in protocol governance through PlanckCat (PCD) NFTs, currently plays a central role in governance. Discussions are ongoing regarding the potential transition of governance responsibilities to OV token holders. 
+PlanckCat DAO is a DAO created for Overlay contributors to engage in protocol governance through PlanckCat (PCD) NFTs, and currently plays a central role in governance. Discussions are ongoing regarding the potential transition of governance responsibilities to OV token holders. 
 
 These discussions are taking place within the appropriate channels on Discord and the Forum.
 Furthermore, any PCD NFT or OV holder is entitled to initiate discussions on the Overlay Discord and/or the Forum. Following a temperature check within the community, they can proceed to create a governance proposal on Snapshot.

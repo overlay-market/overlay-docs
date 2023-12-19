@@ -18,9 +18,9 @@ Contracts on Overlay markets resemble perpetual future contracts in that there i
 
 ## Oracle-based pricing
 
-Overlay brings in data points, which act as a proxy for price by using a combination of oracle-based feeds and native mechanisms to determine the data point of a feed that users can build positions on. For more details, please check out our detailed article on pricing. 
+Overlay brings in data points, which act as a proxy for price by using a combination of oracle-based feeds and native mechanisms to determine the data point of a feed that users can build positions on. For more details, please check out our [detailed article on pricing](https://mirror.xyz/0x7999C7f0b9f2259434b7aD130bBe36723a49E14e/vtmmujPcVINTIVavcsztrYHmP_N1mA4RwgYHmZ8lLdw). 
 
-Traditional crypto exchanges like FTX and Binance usually use a centralized limit order book (CLOB) system to determine price. Price is based on matching of orders in the buy side and sell side of the order book - price is determined merely by what the asset was last bought for. 
+Traditional crypto exchanges like Binance usually use a centralized limit order book (CLOB) system to determine price. Price is based on matching of orders in the buy side and sell side of the order book - price is determined merely by what the asset was last bought for. 
 
 Certain on-chain perp protocols like Perp Protocol and GMX also use oracle based feeds for pricing. 
 
@@ -33,7 +33,7 @@ Overlay will offer tradable markets to its users without traditional counterpart
 
 (ii) if a negative delta is realized, a percent of collateral put up by the user (in the form of OV) is burnt
 
-Risk of inflation is a potential risk for passive OV holders, and should be understood by users of the system. To know more about how risks and how Overlay addresses risk, please refer to Summary of Risks.
+Risk of inflation is a potential risk for passive OV holders, and should be understood by users of the system. To know more about how risks and how Overlay addresses risk, please refer to [Summary of Risks](https://overlay-docs-git-doc-ov-update-overlayprotocol.vercel.app/Security/Risks).
 
 Traditional CLOB-based crypto exchanges rely on swap-based counterparties (including market makers) in order to provide liquidity into their markets. On-chain derivative protocols like Perp Protocol and GMX use liquidity providers to seed liquidity into liquidity pools that users then trade against.
 
