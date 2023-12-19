@@ -30,7 +30,7 @@ The deterministic nature of smart contracts is a huge positive for transparency,
 
 If there are errors/bugs in the code, this may cause the protocol to be unusable. Bugs may even open up the protocol to attacks from bad actors, potentially leading to a loss of funds. While the risk stemming from smart contracts can be mitigated through audits and testing, there is still a risk of errors/bugs persisting.
 
-Overlay has undergone two comprehensive audits: Spearbit and Least Authority. For more details on Overlay’s audits, read about them here.
+Overlay has undergone two comprehensive audits: Spearbit and Least Authority. For more details on Overlay’s audits, read about them [here](https://github.com/overlay-market/v1-core/blob/main/audits/spearbit/audit.pdf) and [here](https://github.com/overlay-market/v1-core/blob/main/audits/leastauthority/audit.pdf).
 
 ## III. Smart contract control/access
 
