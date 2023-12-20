@@ -5,7 +5,7 @@ Official Communication Channels (Beware of Scams - these are the only official c
 
 **Discord: _[overlay.market/discord](https://overlay.market/discord)_**   
 
-**X: _[x.com/OverlayProtocol](https://twitter.com/OverlayProtocol)_**  
+**X: _[x.com/OverlayProtocol](https://x.com/OverlayProtocol)_**  
 
 **Governance Forum: _[commonwealth.im/overlay](https://commonwealth.im/overlay/)_**    
 
