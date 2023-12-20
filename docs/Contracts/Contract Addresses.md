@@ -1,13 +1,6 @@
 # Contract Addresses
 
 
-
-> INFO     
-> Overlay Protocol is currently exclusively accessible to participants in the gated and sandboxed Litter Box programs. There have been three different versions of gated programs in the past. For full launch, please follow updates on our official channels.
-
-
-
-
 ## OV Token
 
 The OV token is the native protocol token. Governance proposals, voting, and trading on the protocol are conducted using OV tokens. The OV token contract address is to be announced.
@@ -55,14 +48,14 @@ PlanckCat DAO (PCD) is a DAO that enables Overlay contributors to be involved in
 
 
 > TIP     
-> PCD NFT minting is live with a soft cap of 500 PCD NFTs. Contribute to Overlay and earn CRED in order to mint a PCD! For more details, go [here](https://www.notion.so/PlanckCat-DAO-7a3fe097aa5c4acaac2d89e142467e53). Hop into our [discord](https://discord.com/invite/m2U5vSr4gD) here to start contributing.
+> PCD NFT minting is live with a soft cap of 500 PCD NFTs. Contribute to Overlay and earn CRED in order to mint a PCD! Hop into our [discord](https://discord.gg/gTnFZ7pS) here to start contributing.
 
 
 
 > DISCLAIMER    
 > Do not interact with any token /smart contract addresses that are not listed on this webpage. Any token not listed on this page that exists on any chain is not associated with Overlay Protocol. Please be careful and get information about Overlay only from the official channels.     
 > 
-> Do not interact with any token /smart contract addresses that are not listed on this webpage. Any "OV" token not listed on this page that exists on any chain is not associated with Overlay Protocol. Please be careful and get information about Overlay only from the official channels listed [here](https://overlay-docs.vercel.app/Getting%20Started/Communication%20channels).
+> Do not interact with any token /smart contract addresses that are not listed on this webpage. Any "OV" token not listed on this page that exists on any chain is not associated with Overlay Protocol. Please be careful and get information about Overlay only from the official channels listed [here](https://overlay-docs-git-doc-ov-update-overlayprotocol.vercel.app/Getting%20Started/Communication%20channels).
 
 
 <p style={{textAlign: 'right'}}>
