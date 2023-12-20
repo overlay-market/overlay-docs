@@ -15,7 +15,7 @@ Initially, the token and markets were created on Ethereum. However, following a 
 
 
 > INFO    
-> For a deep dive into Overlay Protocol, please refer to our white paper [here](https://gateway.pinata.cloud/ipfs/QmVMX7DH8Kh22kxMyDFGUJcw1a3irNPvyZBtAogkyJYJEv).
+> For a deep dive into Overlay Protocol, please refer to our white paper [here](https://overlay.market/whitepaper).
 
 
 
