@@ -19,15 +19,10 @@ module.exports = {
 		  srcDark: 'img/logo-white.png'
 		},
 			items: [
-				{
-					type: "localeDropdown",
-					position: "right",
-				},
-				{
-					href: "https://www.notion.so/Overlay-Protocol-29da60fd11e9436ea69e2a5e0db28a74",
-					label: "Notion",
-					position: "right",
-				},
+				// {
+				// 	type: "localeDropdown",
+				// 	position: "right",
+				// },
 				{
 					href: "https://github.com/overlay-market",
 					label: "GitHub",

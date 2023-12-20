@@ -18,24 +18,24 @@ Contracts on Overlay markets resemble perpetual future contracts in that there i
 
 ## Oracle-based pricing
 
-Overlay brings in data points, which act as a proxy for price by using a combination of oracle-based feeds and native mechanisms to determine the data point of a feed that users can build positions on. For more details, please check out our detailed article on pricing. 
+Overlay brings in data points, which act as a proxy for price by using a combination of oracle-based feeds and native mechanisms to determine the data point of a feed that users can build positions on. For more details, please check out our [detailed article on pricing](https://mirror.xyz/0x7999C7f0b9f2259434b7aD130bBe36723a49E14e/vtmmujPcVINTIVavcsztrYHmP_N1mA4RwgYHmZ8lLdw). 
 
-Traditional crypto exchanges like FTX and Binance usually use a centralized limit order book (CLOB) system to determine price. Price is based on matching of orders in the buy side and sell side of the order book - price is determined merely by what the asset was last bought for. 
+Traditional crypto exchanges like Binance usually use a centralized limit order book (CLOB) system to determine price. Price is based on matching of orders in the buy side and sell side of the order book - price is determined merely by what the asset was last bought for. 
 
 Certain on-chain perp protocols like Perp Protocol and GMX also use oracle based feeds for pricing. 
 
 
 ## Lack of traditional counterparties
 
-Overlay will offer tradable markets to its users without traditional counterparties taking the other side of a position. Overlay dynamically mints/burns its native token OVL when a position is closed:
+Overlay will offer tradable markets to its users without traditional counterparties taking the other side of a position. Overlay dynamically mints/burns its native token OV when a position is closed:
 
-(i) if a positive delta is realized, the protocol mints OVL according to the delta difference against the users initial collateral (also denoted in OVL)
+(i) if a positive delta is realized, the protocol mints OV according to the delta difference against the users initial collateral (also denoted in OV)
 
-(ii) if a negative delta is realized, a percent of collateral put up by the user (in the form of OVL) is burnt
+(ii) if a negative delta is realized, a percent of collateral put up by the user (in the form of OV) is burnt
 
-Risk of inflation is a potential risk for passive OVL holders, and should be understood by users of the system. To know more about how risks and how Overlay addresses risk, please refer to Summary of Risks.
+Risk of inflation is a potential risk for passive OV holders, and should be understood by users of the system. To know more about how risks and how Overlay addresses risk, please refer to [Summary of Risks](https://overlay-docs-git-doc-ov-update-overlayprotocol.vercel.app/Security/Risks).
 
-Traditional CLOB-based crypto exchanges rely on swap-based counterparties (including market makers) in order to provide liquidity into their markets. On-chain derivative protocols like Perp Protocol and GMX use liquidity providers to seed liquidity into liquidity pools that users then trade against. 
+Traditional CLOB-based crypto exchanges rely on swap-based counterparties (including market makers) in order to provide liquidity into their markets. On-chain derivative protocols like Perp Protocol and GMX use liquidity providers to seed liquidity into liquidity pools that users then trade against.
 
 
 ## No Limit Orders
@@ -54,4 +54,4 @@ For Overlay, funding rates are calculated based on the imbalance in Open Interes
 
 ## PnL and Collateral
 
-Users would be required to lock OVL as collateral to a position in an Overlay market. PnL will also be paid out in OVL. OVL is minted by the protocol and paid out to the user as PnL if a position delta positive; on the other hand, if the position is delta negative, locked OVL is burned (to the extent of the loss).
+Users would be required to lock OV as collateral to a position in an Overlay market. PnL will also be paid out in OV. OV is minted by the protocol and paid out to the user as PnL if a position delta positive; on the other hand, if the position is delta negative, locked OV is burned (to the extent of the loss).
