@@ -48,7 +48,7 @@ PlanckCat DAO (PCD) is a DAO that enables Overlay contributors to be involved in
 
 
 > TIP     
-> PCD NFT minting is live with a soft cap of 500 PCD NFTs. Contribute to Overlay and earn CRED in order to mint a PCD! Hop into our [discord](https://discord.gg/gTnFZ7pS) here to start contributing.
+> PCD NFT minting is live with a soft cap of 500 PCD NFTs. Contribute to Overlay and earn CRED in order to mint a PCD! Hop into our [discord](https://overlay.market/discord) here to start contributing.
 
 
 
