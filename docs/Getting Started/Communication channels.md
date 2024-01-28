@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 Official Communication Channels (Beware of Scams - these are the only official channels for Overlay Protocol)
 
-**Discord: _[overlay.market/discord](https://overlay.market/discord)_**   
+**Discord: _[overlay.market/discord](https://redrct.overlay.market/discord)_**   
 
 **X: _[x.com/OverlayProtocol](https://x.com/OverlayProtocol)_**  
 
