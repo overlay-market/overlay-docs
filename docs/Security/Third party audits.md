@@ -86,16 +86,14 @@ There are some selected excerpts below:
 
 From the “General Comments” section:
 
-_“…Our team attempted to force existing positions to become liquidatable by executing a flash loan attack. The attack attempted to build large subsequent positions that would cause the existing positions to lose value. However, the attack was thwarted by the circuit breaker defense. We observed that the risk parameters maintenanceMarginFraction and liquidationFeeRate are critical in preventing flash loan attacks and should be set carefully by a secure governance mechanism._
-
-_We also attempted to create many small positions as an alternative vector to manipulate the value of existing positions but found that the gas cost was prohibitive. Given that the ability to access the feed creation mechanism is unguarded, we explored the potential for griefing attacks but did not identify any issues. Our team found the protocol to be well designed and implemented. However, the project is based on complex finance structures that increased the auditing complexity substantially.”_
+>_“…Our team attempted to force existing positions to become liquidatable by executing a flash loan attack. The attack attempted to build large subsequent positions that would cause the existing positions to lose value. However, the attack was thwarted by the circuit breaker defense. We observed that the risk parameters maintenanceMarginFraction and liquidationFeeRate are critical in preventing flash loan attacks and should be set carefully by a secure governance mechanism._
+>
+>_We also attempted to create many small positions as an alternative vector to manipulate the value of existing positions but found that the gas cost was prohibitive. Given that the ability to access the feed creation mechanism is unguarded, we explored the potential for griefing attacks but did not identify any issues. Our team found the protocol to be well designed and implemented. However, the project is based on complex finance structures that increased the auditing complexity substantially.”_
 
 From the “System Design” section:
 
-_“We found that security has been taken into consideration in the design of the Overlay protocol as demonstrated by a careful delineation of roles and the authority granted to them. Our team noted that sufficient input validation has been implemented where appropriate, in addition to mechanisms that hinder attacks, such as caps, spreads, and market-specific parameters set by protocol governance… “_
-
-_The Overlay code is well organized and adheres to best practices as demonstrated by optimizing storage space by rationally assigning storage variables, moving logic into libraries to minimize the code, appropriately using the require function to ensure the validity of contract state transitions, and also using interfaces to improve readability and facilitate reasoning about the code by abstracting code functionality…”_
+>_“We found that security has been taken into consideration in the design of the Overlay protocol as demonstrated by a careful delineation of roles and the authority granted to them. Our team noted that sufficient input validation has been implemented where appropriate, in addition to mechanisms that hinder attacks, such as caps, spreads, and market-specific parameters set by protocol governance… “_
 
 From the “Code Quality” section:
 
-_The Overlay code is well organized and adheres to best practices as demonstrated by optimizing storage space by rationally assigning storage variables, moving logic into libraries to minimize the code, appropriately using the require function to ensure the validity of contract state transitions, and also using interfaces to improve readability and facilitate reasoning about the code by abstracting code functionality._
+>_"The Overlay code is well organized and adheres to best practices as demonstrated by optimizing storage space by rationally assigning storage variables, moving logic into libraries to minimize the code, appropriately using the require function to ensure the validity of contract state transitions, and also using interfaces to improve readability and facilitate reasoning about the code by abstracting code functionality."_

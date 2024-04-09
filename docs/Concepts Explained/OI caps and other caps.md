@@ -7,7 +7,7 @@ sidebar_position: 4
 
 ## Introduction
 
-Overlay uses its native token OV to pay out PnL if there is a loss, and burns OV collateralized by the user (up to the extent of the loss) in case of a loss. While this mechanism bestows the protocol with benefits like not requiring market makers or the ability to open positions on nearly any scalar data stream, it also opens the protocol up to potential vulnerabilities caused by OV inflation (especially in case of long-tail assets).
+Overlay uses its native token OV to pay out PnL. In case of a profit, it mints OV to be rewarded to the winner. Consequently, in case of a loss, it burns the OV collateralized by the user (up to the extent of the loss). While this mechanism bestows the protocol with benefits like not requiring market makers or the ability to open positions on nearly any scalar data stream, it also opens the protocol up to potential vulnerabilities caused by OV inflation (especially in case of long-tail assets).
 
 To counter these potential vulnerabilities, Overlay utilizes a risk framework that includes payoff caps, OI caps, and a circuit breaker mechanism.
 
