@@ -1,13 +1,13 @@
 # Contract Addresses
 
 
-## OV Token
+## OVL Token
 
-The OV token is the native protocol token. Governance proposals, voting, and trading on the protocol are conducted using OV tokens. The OV token contract address is to be announced.
+The OVL token is the native protocol token. Governance proposals, voting, and trading on the protocol are conducted using OVL tokens. The OVL token contract address is to be announced.
 
 OVL is the Litter Box (test purpose) token on Arbitrum mainnet and the contract address is 0x4305c4bc521b052f17d389c2fe9d37cabeb70d54.
 
-Please note that as of now, the OV token is not available on any exchanges, and no liquidity pools have been deployed for it.
+Please note that as of now, the OVL token is not available on any exchanges, and no liquidity pools have been deployed for it.
 
 If you have any further questions or need additional information, don't hesitate to reach out through our official communication channels.
  
@@ -26,7 +26,7 @@ Overlay smart contracts are currently deployed only on the Arbitrum mainnet excl
    </td>
   </tr>
   <tr>
-   <td>OV Token
+   <td>OVL Token
    </td>
    <td>To be announced
    </td>
@@ -55,7 +55,7 @@ PlanckCat DAO (PCD) is a DAO that enables Overlay contributors to be involved in
 > DISCLAIMER    
 > Do not interact with any token /smart contract addresses that are not listed on this webpage. Any token not listed on this page that exists on any chain is not associated with Overlay Protocol. Please be careful and get information about Overlay only from the official channels.     
 > 
-> Do not interact with any token /smart contract addresses that are not listed on this webpage. Any "OV" token not listed on this page that exists on any chain is not associated with Overlay Protocol. Please be careful and get information about Overlay only from the official channels listed [here](https://overlay-docs-git-doc-ov-update-overlayprotocol.vercel.app/Getting%20Started/Communication%20channels).
+> Do not interact with any token /smart contract addresses that are not listed on this webpage. Any "OVL" token not listed on this page that exists on any chain is not associated with Overlay Protocol. Please be careful and get information about Overlay only from the official channels listed [here](https://overlay-docs-git-doc-ovl-update-overlayprotocol.vercel.app/Getting%20Started/Communication%20channels).
 
 
 <p style={{textAlign: 'right'}}>

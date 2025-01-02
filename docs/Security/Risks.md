@@ -2,7 +2,7 @@
 
 ## I. Inflation risk
 
-Overlay settles all PnL in its native token OV - OV is used as collateral to open a position, it’s minted to pay out profits, and is burned in case of a loss. Thus, the primary risk the protocol faces is risk of excessive inflation of OV. This risk is managed through a range of mechanisms, detailed below.
+Overlay settles all PnL in its native token OVL - OVL is used as collateral to open a position, it’s minted to pay out profits, and is burned in case of a loss. Thus, the primary risk the protocol faces is risk of excessive inflation of OVL. This risk is managed through a range of mechanisms, detailed below.
 
 ### A. Funding payments
 
@@ -16,11 +16,11 @@ The protocol limits PnL or addition of new positions to mitigate inflation risk 
 
 - Payoff caps: Overlay will have a per-position payoff cap that will limit the PnL of each position on the protocol; this cap will be determined by the community/DAO through a formal governance process for each market. This will help the protocol limit inflation risk from the trading of heavy tail assets.
 - Open interest caps: OI caps will be imposed on the aggregate open interest for the long and short sides to limit the amount of position contracts an Overlay market is willing to take on at any point in time. The payoff cap does not work without an OI cap as it is trivial for a user to open several small positions to undermine the payoff cap.
-- Circuit breakers: Together, payoff caps and open interest caps limit the amount the market can print on any single position. Circuit breakers take this a step further by limiting the amount the market can print over multiple positions in a given period of time. When an excess amount of OV has been printed in the recent past, the possible notional size of new positions offered is significantly reduced for an period of time to cool down the market, and bring the rate of inflation in a particular market in line with the protocol’s expected inflation level.
+- Circuit breakers: Together, payoff caps and open interest caps limit the amount the market can print on any single position. Circuit breakers take this a step further by limiting the amount the market can print over multiple positions in a given period of time. When an excess amount of OVL has been printed in the recent past, the possible notional size of new positions offered is significantly reduced for an period of time to cool down the market, and bring the rate of inflation in a particular market in line with the protocol’s expected inflation level.
 
 ### C. Liquidations
 
-Loss making positions that have reached the liquidation threshold are liquidatable by anyone who calls the liquidate function on the market contract. The liquidator earns a reward for doing this. Some of the OV loss incurred by the user is burnt, and some is sent to the fee repo.
+Loss making positions that have reached the liquidation threshold are liquidatable by anyone who calls the liquidate function on the market contract. The liquidator earns a reward for doing this. Some of the OVL loss incurred by the user is burnt, and some is sent to the fee repo.
 
 A key point to note is that risk parameters associated with the above features are set by Overlay governance. So, it is up to token holders to decide the balance between inflation risk vs increased potential volumes and platform usage. On one end of the spectrum, the risk parameters can be tuned so strictly as to inhibit all trading volume for zero inflation risk. On the other end of the spectrum, they can be tuned so loose as to enable large trading volumes but with significant risk of inflation.
 
