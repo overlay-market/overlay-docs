@@ -55,7 +55,7 @@ PlanckCat DAO (PCD) is a DAO that enables Overlay contributors to be involved in
 > DISCLAIMER    
 > Do not interact with any token /smart contract addresses that are not listed on this webpage. Any token not listed on this page that exists on any chain is not associated with Overlay Protocol. Please be careful and get information about Overlay only from the official channels.     
 > 
-> Do not interact with any token /smart contract addresses that are not listed on this webpage. Any "OVL" token not listed on this page that exists on any chain is not associated with Overlay Protocol. Please be careful and get information about Overlay only from the official channels listed [here](https://overlay-docs-git-doc-ovl-update-overlayprotocol.vercel.app/Getting%20Started/Communication%20channels).
+> Do not interact with any token /smart contract addresses that are not listed on this webpage. Any "OVL" token not listed on this page that exists on any chain is not associated with Overlay Protocol. Please be careful and get information about Overlay only from the official channels listed [here](/Getting%20Started/Communication%20channels).
 
 
 <p style={{textAlign: 'right'}}>

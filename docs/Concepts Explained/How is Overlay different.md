@@ -33,7 +33,7 @@ Overlay will offer tradable markets to its users without traditional counterpart
 
 (ii) if a negative delta is realized, a percent of collateral put up by the user (in the form of OVL) is burnt
 
-Risk of inflation is a potential risk for passive OVL holders, and should be understood by users of the system. To know more about how risks and how Overlay addresses risk, please refer to [Summary of Risks](https://overlay-docs-git-doc-ovl-update-overlayprotocol.vercel.app/Security/Risks).
+Risk of inflation is a potential risk for passive OVL holders, and should be understood by users of the system. To know more about how risks and how Overlay addresses risk, please refer to [Summary of Risks](/Security/Risks).
 
 Traditional CLOB-based crypto exchanges rely on swap-based counterparties (including market makers) in order to provide liquidity into their markets. On-chain derivative protocols like Perp Protocol and GMX use liquidity providers to seed liquidity into liquidity pools that users then trade against.
 

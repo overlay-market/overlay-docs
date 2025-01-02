@@ -47,12 +47,12 @@ Users would be required to lock OVL as collateral to a position in an Overlay ma
 
 ## OVL
 
-OVL is the proposed native token of Overlay Protocol. It is an ERC-20 token on the Arbitrum Mainnet. OVL serves a dual purpose and will be used to participate in trading and DAO governance after launch. OVL acts as liquidity and governance in the Overlay system - all PnL for users is denominated in OVL, creating a flywheel effect where utility, liquidity and community incentives are fed back into the system. For more on OVL, please refer to [our section on OVL here](https://overlay-docs-git-doc-ovl-update-overlayprotocol.vercel.app/Concepts%20Explained/OVL).
+OVL is the proposed native token of Overlay Protocol. It is an ERC-20 token on the Arbitrum Mainnet. OVL serves a dual purpose and will be used to participate in trading and DAO governance after launch. OVL acts as liquidity and governance in the Overlay system - all PnL for users is denominated in OVL, creating a flywheel effect where utility, liquidity and community incentives are fed back into the system. For more on OVL, please refer to [our section on OVL here](/Concepts%20Explained/OVL).
 
 
 ## Nature of Contracts entered by users
 
-Positions on Overlay Protocol resemble perpetual futures contracts (perps) - similar to perps, the contracts keep rolling over, with no expiration date or actual settlement. However, contracts offered on Overlay markets have several key features differing from conventional perps. For more on this, please refer to [our section on this](https://overlay-docs-git-doc-ovl-update-overlayprotocol.vercel.app/Concepts%20Explained/How%20is%20Overlay%20different).
+Positions on Overlay Protocol resemble perpetual futures contracts (perps) - similar to perps, the contracts keep rolling over, with no expiration date or actual settlement. However, contracts offered on Overlay markets have several key features differing from conventional perps. For more on this, please refer to [our section on this](/Concepts%20Explained/How%20is%20Overlay%20different).
 
 
 > DISCLAIMER     
