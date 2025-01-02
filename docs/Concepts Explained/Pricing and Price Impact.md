@@ -22,9 +22,7 @@ To determine price, Overlay does not utilize:
 
 Pricing on Overlay markets is not dynamic in the traditional sense; it is based on values intermittently fetched from oracles[^5]. Overlay has the ability to onboard nearly any oracle, as long as the oracle feed is non-manipulable and non-predictable.
 
-The first oracle being considered by Overlay for use on its markets is the Uniswap v3 TWAP oracle. This can be used to deploy Overlay markets based on price feed from pre-existing market pairs on Uniswap v3 as long as liquidity within a market pair is deep enough (this will be decided by the community through governance processes).
-
-The second oracle that would likely be implemented by Overlay would be Chainlink oracle feeds: this would provide Overlay with the ability to offer any market / data stream available on Chainlink. This would also offer the protocol the ability to offer non-traditional markets based on data streams, like the Consumer Price Index (CPI), a metric for the level of inflation.
+The main oracle Overlay offers are Chainlink-like oracle feeds, run by various entities, including Chainlink and Overlay itself. These provide Overlay with the ability to offer any market / data stream foro which data is available. This allows the protocol to reach its potential by offering non-traditional markets based on data streams, like the Consumer Price Index (CPI), a metric for the level of inflation.
 
 ---
 
