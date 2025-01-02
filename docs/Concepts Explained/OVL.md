@@ -24,8 +24,8 @@ If the position is unprofitable, the protocol burns OVL tokens of a value equiva
 
 ## Supply
 
-Total supply of OVL is 800 million. The OVL supply, by function, is dynamic. Thus, OVL will be dynamically minted and burned by the smart contracts when positions are unwound by users.
+Total supply of OVL will be 88,888,888. The OVL supply, by function, is dynamic. Thus, OVL will be dynamically minted and burned by the smart contracts when positions are unwound by users.
 
 <p style={{textAlign: 'right'}}>
-<em>Last updated on <strong>Dec 19, 2023</strong></em></p>
+<em>Last updated on <strong>Jan 2, 2025</strong></em></p>
 

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# How does Overlay differ from other perps?
+# How is Overlay Different
 
 
 ## What are perpetual futures contracts or perps?
