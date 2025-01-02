@@ -33,12 +33,12 @@ Overlay aims to offer several types of markets, based on price data feeds and no
 
 ## How does Overlay offer markets without counterparties?
 
-Users build positions against the entire protocol itself, or perhaps most tellingly: against every other OVL holder simultaneously. This enables Overlay markets to have deep liquidity without the need for liquidity providers or traditional swap-based counterparties (including market makers). To read more about how the protocol negates the potential OVL inflation risk from this mechanism, please refer to [this write-up](https://mirror.xyz/0x7999C7f0b9f2259434b7aD130bBe36723a49E14e/vtmmujPcVINTIVavcsztrYHmP_N1mA4RwgYHmZ8lLdw ).
+Users build positions against the entire protocol itself, or perhaps most tellingly: against every other OVL holder simultaneously. This enables Overlay markets to have deep liquidity without the need for liquidity providers or traditional swap-based counterparties (including market makers). To read more about how the protocol negates the potential OVL inflation risk from this mechanism, please refer to [this page](/Concepts%20Explained/Pricing%20and%20Price%20Impact).
 
 
 ## Pricing based on oracle feeds
 
-Pricing on Overlay markets is not dynamic in the traditional sense; it is based on values intermittently fetched from oracles. These oracle values are then adjusted by certain mechanisms built-in to the protocol (for more details, please [see our article](https://mirror.xyz/0x7999C7f0b9f2259434b7aD130bBe36723a49E14e/vtmmujPcVINTIVavcsztrYHmP_N1mA4RwgYHmZ8lLdw) on Pricing on Overlay). Overlay has the ability to onboard nearly any oracle, as long as the oracle feed is non-manipulable and non-predictable. 
+Pricing on Overlay markets is not dynamic in the traditional sense; it is based on values intermittently fetched from oracles. These oracle values are then adjusted by certain mechanisms built-in to the protocol (for more details, please [see our docs](/Concepts%20Explained/Pricing%20and%20Price%20Impact) on Pricing on Overlay). Overlay has the ability to onboard nearly any oracle, as long as the oracle feed is non-manipulable and non-predictable. 
 
  ## How does trading work (Collateral and PnL)?
 

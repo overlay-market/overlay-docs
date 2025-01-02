@@ -18,7 +18,7 @@ Contracts on Overlay markets resemble perpetual future contracts in that there i
 
 ## Oracle-based pricing
 
-Overlay brings in data points, which act as a proxy for price by using a combination of oracle-based feeds and native mechanisms to determine the data point of a feed that users can build positions on. For more details, please check out our [detailed article on pricing](https://mirror.xyz/0x7999C7f0b9f2259434b7aD130bBe36723a49E14e/vtmmujPcVINTIVavcsztrYHmP_N1mA4RwgYHmZ8lLdw). 
+Overlay brings in data points, which act as a proxy for price by using a combination of oracle-based feeds and native mechanisms to determine the data point of a feed that users can build positions on. For more details, please check out our [detailed doc on pricing](/Concepts%20Explained/Pricing%20and%20Price%20Impact). 
 
 Traditional crypto exchanges like Binance usually use a centralized limit order book (CLOB) system to determine price. Price is based on matching of orders in the buy side and sell side of the order book - price is determined merely by what the asset was last bought for. 
 
