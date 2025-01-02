@@ -56,4 +56,4 @@ Positions on Overlay Protocol resemble perpetual futures contracts (perps) - sim
 
 
 <p style={{textAlign: 'right'}}>
-<em>Last updated on <strong>Dec 19, 2023</strong></em></p>
+<em>Last updated on <strong>Jan 2, 2025</strong></em></p>
