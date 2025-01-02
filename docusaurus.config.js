@@ -1,7 +1,7 @@
 module.exports = {
 	title: "Overlay",
 	tagline: "Trade data streams",
-	url: "https://overlay-docs.com",
+	url: "https://docs.overlay.market",
 	baseUrl: "/",
 	favicon: "img/OVL-favicon.ico",
 	organizationName: "overlay", // Usually your GitHub org/user name.
@@ -43,9 +43,9 @@ module.exports = {
 			en: {
 				htmlLang: "en-GB",
 			},
-			'zh-CN': {
-				htmlLang: "zh-CN",
-			}
+			// 'zh-CN': {
+			// 	htmlLang: "zh-CN",
+			// }
 		},
 	},
 	presets: [

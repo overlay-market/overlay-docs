@@ -2,7 +2,7 @@
 
 ## I. Inflation risk
 
-Overlay settles all PnL in its native token OV - OV is used as collateral to open a position, it’s minted to pay out profits, and is burned in case of a loss. Thus, the primary risk the protocol faces is risk of excessive inflation of OV. This risk is managed through a range of mechanisms, detailed below.
+Overlay settles all PnL in its native token OVL - OVL is used as collateral to open a position, it’s minted to pay out profits, and is burned in case of a loss. Thus, the primary risk the protocol faces is risk of excessive inflation of OVL. This risk is managed through a range of mechanisms, detailed below.
 
 ### A. Funding payments
 
@@ -16,11 +16,11 @@ The protocol limits PnL or addition of new positions to mitigate inflation risk 
 
 - Payoff caps: Overlay will have a per-position payoff cap that will limit the PnL of each position on the protocol; this cap will be determined by the community/DAO through a formal governance process for each market. This will help the protocol limit inflation risk from the trading of heavy tail assets.
 - Open interest caps: OI caps will be imposed on the aggregate open interest for the long and short sides to limit the amount of position contracts an Overlay market is willing to take on at any point in time. The payoff cap does not work without an OI cap as it is trivial for a user to open several small positions to undermine the payoff cap.
-- Circuit breakers: Together, payoff caps and open interest caps limit the amount the market can print on any single position. Circuit breakers take this a step further by limiting the amount the market can print over multiple positions in a given period of time. When an excess amount of OV has been printed in the recent past, the possible notional size of new positions offered is significantly reduced for an period of time to cool down the market, and bring the rate of inflation in a particular market in line with the protocol’s expected inflation level.
+- Circuit breakers: Together, payoff caps and open interest caps limit the amount the market can print on any single position. Circuit breakers take this a step further by limiting the amount the market can print over multiple positions in a given period of time. When an excess amount of OVL has been printed in the recent past, the possible notional size of new positions offered is significantly reduced for an period of time to cool down the market, and bring the rate of inflation in a particular market in line with the protocol’s expected inflation level.
 
 ### C. Liquidations
 
-Loss making positions that have reached the liquidation threshold are liquidatable by anyone who calls the liquidate function on the market contract. The liquidator earns a reward for doing this. Some of the OV loss incurred by the user is burnt, and some is sent to the fee repo.
+Loss making positions that have reached the liquidation threshold are liquidatable by anyone who calls the liquidate function on the market contract. The liquidator earns a reward for doing this. Some of the OVL loss incurred by the user is burnt, and some is sent to the fee repo.
 
 A key point to note is that risk parameters associated with the above features are set by Overlay governance. So, it is up to token holders to decide the balance between inflation risk vs increased potential volumes and platform usage. On one end of the spectrum, the risk parameters can be tuned so strictly as to inhibit all trading volume for zero inflation risk. On the other end of the spectrum, they can be tuned so loose as to enable large trading volumes but with significant risk of inflation.
 
@@ -30,7 +30,11 @@ The deterministic nature of smart contracts is a huge positive for transparency,
 
 If there are errors/bugs in the code, this may cause the protocol to be unusable. Bugs may even open up the protocol to attacks from bad actors, potentially leading to a loss of funds. While the risk stemming from smart contracts can be mitigated through audits and testing, there is still a risk of errors/bugs persisting.
 
-Overlay has undergone two comprehensive audits: Spearbit and Least Authority. For more details on Overlay’s audits, read about them [here](https://github.com/overlay-market/v1-core/blob/main/audits/spearbit/audit.pdf) and [here](https://github.com/overlay-market/v1-core/blob/main/audits/leastauthority/audit.pdf).
+### Overlay has undergone three comprehensive audits
+Spearbit, Least Authority and Trail of Bits. For more details on Overlay’s audits, read about them:
+- [Spearbit DAO Audit](https://github.com/overlay-market/v1-core/blob/main/audits/spearbit/audit.pdf)
+- [Least Authority Audit](https://github.com/overlay-market/v1-core/blob/main/audits/leastauthority/audit.pdf).
+- [Trail of Bits Audit](https://github.com/overlay-market/v1-core/blob/main/audits/trailofbits/audit.pdf).
 
 ## III. Smart contract control/access
 
@@ -40,7 +44,7 @@ If access to the smart contract is not implemented correctly, this can lead to a
 
 Pricing data on Overlay markets is based on values intermittently fetched from oracles. Oracles are third-party services that help protocols get information/data (related to price data or other data) required from outside of the protocol’s smart contract ecosystem. Any tool that helps get price data about an asset is a “price oracle.” Overlay has the ability to onboard nearly any oracle, as long as the oracle feed is non-manipulable and non-predictable.
 
-There is sometimes a time delay between manipulation-resistant information available at the current time and the actual most recent value of the data stream. That is, the price feed of the oracle may not be up to date with the actual price at any given point of time. This latency can be exploited to turn a profit by frontrunning users. Frontrunning is an issue especially on the Arbitrum mainnet.
+There is sometimes a time delay between manipulation-resistant information available at the current time and the actual most recent value of the data stream. That is, the price feed of the oracle may not be up to date with the actual price at any given point of time. This latency can be exploited to turn a profit by frontrunning users.
 
 Several crypto exploits have focused on corrupting oracle data through manipulation of the oracle price feeds. This can lead to large gains for exploiters on another platform using the corrupted oracle data. Such attacks usually involve flash loans to manipulate oracle data and are completed within the same block (due to the nature of flash loans).
 

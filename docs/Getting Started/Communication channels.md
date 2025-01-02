@@ -7,6 +7,6 @@ Official Communication Channels (Beware of Scams - these are the only official c
 
 **X: _[x.com/OverlayProtocol](https://x.com/OverlayProtocol)_**  
 
-**Governance Forum: _[commonwealth.im/overlay](https://commonwealth.im/overlay/)_**    
+<!-- **Governance Forum: _[commonwealth.im/overlay](https://commonwealth.im/overlay/)_**     -->
 
 **Telegram (Announcements): _[t.me/overlay_protocol](https://t.me/overlay_protocol)_**
