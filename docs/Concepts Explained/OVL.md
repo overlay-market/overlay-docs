@@ -13,6 +13,13 @@ OVL may be used by holders to:
 2. open positions on the markets offered on Overlay by using OVL as collateral
 
 
+## Token Details
+
+| Ticker | OVL |
+| :----------- | :----------- |
+| Initial Supply | 88,888,888 |
+| Arbitrum Address | [0x18cBaBcAF71B274cdB5508c5c02F6F815e04C5a4](https://arbiscan.io/token/0x18cBaBcAF71B274cdB5508c5c02F6F815e04C5a4) |
+
 ## Building Position
 
 To enter a position, a user of Overlay Protocol will lock OVL into the Overlay smart contract as collateral/margin. A user could leverage this collateral on either side of any market offered by Overlay. 
