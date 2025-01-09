@@ -18,7 +18,6 @@ OVL may be used by holders to:
 | Ticker | OVL |
 | :----------- | :----------- |
 | Initial Supply | 88,888,888 |
-| Arbitrum Address | [0x18cBaBcAF71B274cdB5508c5c02F6F815e04C5a4](https://arbiscan.io/token/0x18cBaBcAF71B274cdB5508c5c02F6F815e04C5a4) |
 
 ## Building Position
 
