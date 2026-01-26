@@ -81,6 +81,9 @@ If any risk limit is breached:
 - Certain high-variance or experimental/gambling markets may be excluded.
 - Eligibility rules may evolve over time.
 
+## Program Safeguards
+Overlay reserves the right to suspend or terminate any funded trading wallet in cases of market manipulation, abuse, or behavior that compromises system integrity or puts users at risk. This measure exists solely to protect users and ensure proper market operation.
+
 ---
 
 ## Scaling & Tiers
