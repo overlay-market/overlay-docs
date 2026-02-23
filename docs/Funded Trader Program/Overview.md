@@ -1,5 +1,3 @@
-# Funded Trader Program
-
 ## Overview
 The **Funded Trader Program** is a protocol-level mechanism that allows skilled traders to qualify for and trade with Overlay-provided capital by first passing an on-chain evaluation.
 
