@@ -37,11 +37,12 @@ Once your deposit is confirmed, your evaluation begins.
 During evaluation:
 
 - You trade using your locked collateral.
-- You must reach both:
+- You must reach:
   - The required trading volume
   - The required net PnL target
+  - The minimum trading days threshold
 
-Both conditions must be satisfied to qualify.
+All conditions must be satisfied to qualify.
 
 There are no daily loss limits or maximum drawdown rules.
 
@@ -49,9 +50,9 @@ There are no daily loss limits or maximum drawdown rules.
 
 ## Outcomes
 
-### 1️⃣ You Reach Volume + PnL Targets
+### 1️⃣ You Reach All Targets
 
-If you successfully reach both targets:
+If you successfully reach All targets:
 
 - Your locked collateral is returned.
 - Your evaluation profits are returned.
