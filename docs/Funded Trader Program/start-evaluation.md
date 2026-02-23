@@ -69,10 +69,3 @@ If your trading results in losses and your collateral is depleted:
 - There are no refunds.
 
 You may start a new evaluation at any time.
-
----
-
-## Important Notes
-
-- Evaluation capital is non-refundable unless targets are achieved.
-- Targets must be achieved in full (both volume and net PnL).
