@@ -1,4 +1,4 @@
-# Funded Trader Program - Payout Requests
+# Payout Requests
 
 This document outlines how funded traders can request payouts, the eligibility requirements, and the processing timeline.
 
