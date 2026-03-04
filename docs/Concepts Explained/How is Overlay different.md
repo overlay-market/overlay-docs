@@ -54,4 +54,8 @@ For Overlay, funding rates are calculated based on the imbalance in Open Interes
 
 ## PnL and Collateral
 
-Users would be required to lock OVL as collateral to a position in an Overlay market. PnL will also be paid out in OVL. OVL is minted by the protocol and paid out to the user as PnL if a position delta positive; on the other hand, if the position is delta negative, locked OVL is burned (to the extent of the loss).
+Users are not required to lock OVL as collateral to open a position in an Overlay market. Instead, positions are opened using USDT as collateral, and PnL is also settled in USDT.
+
+OVL continues to function as the protocol's internal balancing mechanism. When positions are profitable, the protocol adjusts supply internally in line with the system's accounting rules; on the other hand, if a position is at a loss, the system absorbs the difference through the protocol's internal mechanics.
+
+This design allows traders to interact with markets using stable collateral (USDT) while the OVL token economics operate at the protocol level to maintain system balance.

@@ -36,9 +36,15 @@ Users build positions against the entire protocol itself, or perhaps most tellin
 
 Pricing on Overlay markets is not dynamic in the traditional sense; it is based on values intermittently fetched from oracles. These oracle values are then adjusted by certain mechanisms built-in to the protocol (for more details, please [see our docs](/Concepts%20Explained/Pricing%20and%20Price%20Impact) on Pricing on Overlay). Overlay has the ability to onboard nearly any oracle, as long as the oracle feed is non-manipulable and non-predictable. 
 
- ## How does trading work (Collateral and PnL)?
+ ## How Trading Works (Collateral & PnL)
 
-Users would be required to lock OVL as collateral to a position in an Overlay market. PnL is settled in OVL. OVL is minted by the protocol and sent to the user as PnL if a position is in profit; on the other hand, if the position is at a loss, locked OVL is burned (to the extent of the loss).
+Users open positions using USDT as collateral in an Overlay market.
+
+All profit and loss (PnL) is settled in USDT, providing a stable and predictable trading experience without requiring direct exposure to OVL.
+
+Behind the scenes, the protocol continues to use OVL as its internal accounting and balancing mechanism. When traders generate profits, the protocol adjusts supply accordingly, and when traders incur losses, the system absorbs the difference through its internal mechanics.
+
+This design allows traders to interact with markets using stable collateral (USDT) while the OVL token economics operate at the protocol level to maintain system balance and incentive alignment.
 
 
 ## OVL
