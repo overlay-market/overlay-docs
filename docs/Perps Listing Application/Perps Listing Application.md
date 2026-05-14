@@ -4,40 +4,7 @@ This guide explains how token projects can apply to list their token as a perpet
 
 ## Purpose
 
-The listing application is a structured form that allows project teams to propose their token as a new perp market on Overlay. The information collected helps the risk and protocol teams evaluate whether the token is suitable for a derivatives market.
-
-## Application Form Requirements
-
-A complete application should include the following information:
-
-1. **Project Basics**
-
-   - Token Name
-   - Token Symbol
-   - Chain
-   - Contract Address
-
-2. **Community**
-
-   - X (Twitter)
-   - Telegram
-   - Discord
-
-3. **Market Information**
-
-   - CoinGecko / CoinMarketCap Link
-
-4. **Operational Contact**
-
-   - Name
-   - Email
-   - Telegram Handle
-
-5. **Additional Information**
-
-   - Website
-   - Docs / Whitepaper
-   - Short Project Description
+The listing application is a structured form that allows project teams to propose their token as a new perp market on Overlay. The information collected helps the risk team evaluate whether the token is suitable for a derivatives market.
 
 ## Review Process
 

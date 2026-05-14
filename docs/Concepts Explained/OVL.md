@@ -1,17 +1,10 @@
 ---
 sidebar_position: 2
 ---
+
 # OVL
 
-OVL is the native token of Overlay Protocol. It is an ERC-20 token. OVL serves a dual purpose and will be used to participate in trading and DAO governance after launch.
-
-OVL may be used by holders to:
-
-
-
-1. vote on [governance](/Getting%20Started/Governance) proposals of the DAO governing Overlay Protocol
-2. open positions on the markets offered on Overlay by using OVL as collateral
-
+OVL is the native token of Overlay Protocol. It is a BEP-20 token. OVL serves a dual purpose — it powers the protocol's internal accounting mechanics and enables participation in DAO governance.
 
 ## Token Details
 
@@ -29,11 +22,11 @@ If the position is unprofitable, the loss is deducted from the USDT collateral t
 
 Behind the scenes, the protocol continues to use OVL as its internal balancing mechanism, adjusting supply according to the system's accounting rules to reflect profits and losses across markets.
 
-No adjustments are required when a position is closed at break-even
+No adjustments are required when a position is closed at break-even.
+
 ## Supply
 
 Total supply of OVL equals 88,888,888. The OVL supply, by function, is dynamic. Thus, OVL is dynamically minted and burned by the smart contracts when positions are unwound by users.
 
 <p style={{textAlign: 'right'}}>
 <em>Last updated on <strong>Jan 2, 2025</strong></em></p>
-
