@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Community Pools
 
 ## What is a Community Pool?
