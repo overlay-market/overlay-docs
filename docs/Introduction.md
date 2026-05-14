@@ -18,6 +18,8 @@ Overlay is a decentralized perpetuals exchange built for long-tail crypto assets
 
 **Projects** — launch your own perps market in days. No market maker required. Your community trades, you earn a share of the fees — permanently.
 
+**Communities** — pool capital to fund a perps market for your favorite token. Earn 50% of trading fees proportional to your contribution, permanently.
+
 ## How does Overlay offer markets without counterparties?
 
 Users build positions against the protocol itself — effectively against every OVL holder simultaneously. This eliminates the need for liquidity providers or market makers, which is what makes thin-liquidity token markets possible in the first place.
