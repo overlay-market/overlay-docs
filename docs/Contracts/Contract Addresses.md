@@ -1,7 +1,7 @@
 # Contract Addresses
 ## OVL Token
-The OVL token is the native protocol token. Governance proposals and voting are conducted using OVL. Trading on the protocol is conducted using stablecoins — OVL is not required to trade.
-If you have any further questions or need additional information, don't hesitate to reach out through our official communication channels.
+The OVL token is the native protocol token. Trading on the protocol is conducted using stablecoins — OVL is not required to trade.
+
 ## Overlay Smart Contracts
 | Contract | Address |
 | ----------- | ----------- |
