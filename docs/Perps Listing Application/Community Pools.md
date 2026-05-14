@@ -33,7 +33,9 @@ For example, if you contributed 10% of the pool and the market generated $1,000 
 
 ## What happens if the pool target isn't reached?
 
-- Full Refund within 48 hours
+- Refunds will happen automatically (within 48 hours) if the target is not reached after pool countdown is over.
+- Once the pool target is reached - the market is deployed, contributions are non-refundable after market listing.
+
 
 > For questions about launching a Community Pool for your token, fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSdQr6GX8a5khZpxcB7Z6JDEvx1FsPoKQhF78D1qaVV6BslUig/viewform) and we will reach out.
 
