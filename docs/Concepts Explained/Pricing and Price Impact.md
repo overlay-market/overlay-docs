@@ -76,7 +76,7 @@ Overlay also adjusts its pricing mechanism to account for this issue of theoreti
 ---
 
 ## Determination of bid and ask prices
-Bid and ask price are determined by predefined formulae and are functions of the same factors. 
+Bid and ask price are determined by predefined formulae and are functions of the same factors.
 
 The formula for bid price B is as below:
 
@@ -85,12 +85,12 @@ The formula for bid price B is as below:
 </p>
 
 Here, bid price (B) is a factor of:
-- **e** → Euler's number, a mathematical constant approximately equal to 2.71828  
-- **δ** → "static spread" used to prevent the frontrunning of the shorter TWAP  
-- **λ** → Market-specific impact constant that dictates slippage for queuing an additional OI<sub>i</sub> worth of open interest  
-- **q<sub>b</sub>** → Cumulative rolling volume of open interest queued over the last **ν** period on the bid side  
-- **Δ** → Longer TWAP window  
-- **ν** → Shorter TWAP window such that **ν >> Δ** 
+- **e** → Euler's number, a mathematical constant approximately equal to 2.71828
+- **δ** → "static spread" used to prevent the frontrunning of the shorter TWAP
+- **λ** → Market-specific impact constant that dictates slippage for queuing an additional OI<sub>i</sub> worth of open interest
+- **q<sub>b</sub>** → Cumulative rolling volume of open interest queued over the last **ν** period on the bid side
+- **Δ** → Longer TWAP window
+- **ν** → Shorter TWAP window such that **ν >> Δ**
 - **t** → Current time at the execution of the position
 
 The formula for ask price A is as below:
@@ -100,12 +100,12 @@ The formula for ask price A is as below:
 </p>
 
 Here, ask price (A) is a factor of:
-- **e** → Euler's number, a mathematical constant approximately equal to 2.71828  
-- **δ** → "static spread" used to prevent the frontrunning of the shorter TWAP  
-- **λ** → market specific impact constant that dictates slippage¹² for queuing an additional OI<sub>i</sub> worth of open interest to either the bid or the ask side 
-- **q<sub>a</sub>** → Cumulative rolling volume of open interest queued over the last **ν** period on the ask side  
-- **Δ** → Longer TWAP window  
-- **ν** → Shorter TWAP window such that **ν >> Δ** 
+- **e** → Euler's number, a mathematical constant approximately equal to 2.71828
+- **δ** → "static spread" used to prevent the frontrunning of the shorter TWAP
+- **λ** → market specific impact constant that dictates slippage¹² for queuing an additional OI<sub>i</sub> worth of open interest to either the bid or the ask side
+- **q<sub>a</sub>** → Cumulative rolling volume of open interest queued over the last **ν** period on the ask side
+- **Δ** → Longer TWAP window
+- **ν** → Shorter TWAP window such that **ν >> Δ**
 - **t** → Current time at the execution of the position
 
 ---
