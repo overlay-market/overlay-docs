@@ -54,4 +54,4 @@ The table below shows cumulative pool earnings at different total volume milesto
 > For questions about launching a Community Pool for your token, fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSdQr6GX8a5khZpxcB7Z6JDEvx1FsPoKQhF78D1qaVV6BslUig/viewform) and we will reach out.
 
 <p style={{textAlign: 'right'}}>
-<em>Last updated on <strong>May 2025</strong></em></p>
+<em>Last updated on <strong>May 2026</strong></em></p>
