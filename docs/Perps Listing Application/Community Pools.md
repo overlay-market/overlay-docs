@@ -23,7 +23,7 @@ Community Pool contributors collectively earn **30% of all trading fees** genera
 
 Overlay charges a flat **0.1% trading fee** on all volume. At 30% rev-share to the pool, contributors earn **$0.0003 per dollar traded**.
 
-For example, if you contributed 10% of the pool and the market generated $1,000 in fees that week, you'd receive $100.
+For example, if you contributed 10% of the pool and the pool distributed $1,000 in fees that week, your cut is $100 — automatically, for as long as the market exists.
 
 ### Projected Earnings by Volume
 
