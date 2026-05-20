@@ -17,7 +17,7 @@ For a deep dive into Overlay Protocol, please refer to our white paper [here](ht
 
 - **Traders** — access leveraged exposure to tokens you couldn't trade as perps anywhere else. Long or short, stablecoin-settled, no expiry.
 - **Projects** — launch your own perps market in days. No market maker required. Your community trades, you earn a share of the fees — permanently.
-- **Communities** — pool capital to fund a perps market for your favorite token. Earn 50% of trading fees proportional to your contribution, permanently.
+- **Communities** — pool capital to fund a perps market for your favorite token. Earn 30% of trading fees proportional to your contribution, permanently.
 
 ## How does Overlay offer markets without counterparties?
 
