@@ -10,7 +10,7 @@ sidebar_position: 1
 Overlay is a decentralized perpetuals exchange built for long-tail crypto assets — tokens that trade on-chain but lack the liquidity depth to be listed on major derivatives venues. Any project can launch a perps market on Overlay without needing market makers or liquidity providers.
 
 :::info
-For a deep dive into Overlay Protocol, please refer to our white paper [here](https://redrct.overlay.market/whitepaper).
+For a deep dive into Overlay Protocol, please refer to our white paper [here](/whitepaper.pdf).
 :::
 
 ## Who is Overlay for?
