@@ -54,7 +54,7 @@ module.exports = {
 			{
 				docs: {
 					routeBasePath: "/", // Serve the docs at the site's root
-					/* other docs plugin options */
+					sidebarPath: require.resolve("./sidebars.js"),
 				},
 				blog: false, // Optional: disable the blog plugin
 				// ...
